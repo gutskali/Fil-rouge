@@ -1,0 +1,95 @@
+.annonces{
+    background-color: red;
+    height: 100 px;
+    width: 100 px;
+}
+.info{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.ancimg{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+top:20px;
+right:20px;
+border-radius: 50%;
+max-width: 100%;
+max-height: 100%;
+box-shadow: 5px 5px 5px black;
+}
+#main{
+    height: 1000;
+    width: 100%;
+    background-color:#F1F2F6;
+}
+#anc1{
+    margin-top:45px;
+    margin-left: 25px;
+    position: absolute;
+    width: 600px;
+    height: 200px;  
+    background-color:#2682C4;
+    display: flex;
+    float: left;
+    box-shadow: 5px 5px 5px black;
+}
+#anc2{
+    margin-top:45px;
+    margin-left: 700px;
+    position: absolute;
+    width: 600px;
+    height: 200px;  
+    background-color:#2682C4;
+    display: flex;
+    box-shadow: 5px 5px 5px black;
+}
+#anc3{
+    margin-top:300px;
+    margin-left: 25px;
+    position: absolute;
+    width: 600px;
+    height: 200px;  
+    background-color:#2682C4;
+    display: flex;
+    float: left;
+    box-shadow: 5px 5px 5px black;
+}
+
+#anc4{
+    margin-top:300px;
+    margin-left: 700px;
+    position: absolute;
+    width: 600px;
+    height: 200px;  
+    background-color:#2682C4;
+    display: flex;
+    float: left;
+    box-shadow: 5px 5px 5px black;
+}
+
+#anc5{
+    margin-top: 550px;
+    margin-left: 25px;
+    position: absolute;
+    width: 600px;
+    height: 200px;  
+    background-color:#2682C4;
+    display: flex;
+    float: left;
+    box-shadow: 5px 5px 5px black;
+}
+#anc6{
+    margin-top: 550px;
+    margin-left: 700px;
+    position: absolute;
+    width: 600px;
+    height: 200px;  
+    background-color:#2682C4;
+    display: flex;
+    float: left;
+    box-shadow: 5px 5px 5px black;
+}
+img{
+    width: 100%;
+}
